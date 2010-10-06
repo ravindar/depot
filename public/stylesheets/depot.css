@@ -17,6 +17,9 @@
 }
 
 /* Styles for products/index */
+#store .entry form, #store .entry form div {
+	display: inline;
+}
 
 #product_list table {
         border-collapse: collapse;
